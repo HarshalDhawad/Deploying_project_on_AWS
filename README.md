@@ -1,5 +1,7 @@
 # Deploying a Node Js Application on AWS EC2
 
+# LINK : http://52.91.255.103:3000/
+
 ### Testing the project locally
 
 1. Clone this project
